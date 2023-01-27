@@ -1,0 +1,407 @@
+{"relation_363496": ["Q837595", "lahul_and_spiti", "Polygon", 1], "relation_364046": ["Q1862950", "kinnaur", "Polygon", 1], "relation_364055": ["Q2980880", "kullu", "Polygon", 1], "relation_364070": ["Q1060614", "chamba", "Polygon", 1], "relation_364074": ["Q727232", "kangra", "Polygon", 1], "relation_364144": ["Q2301741", "una", "Polygon", 1], "relation_364155": ["Q2086180", "hamirpur", "Polygon", 1], "relation_364161": ["Q1892161", "mandi", "Polygon", 1], "relation_364166": ["Q1478939", "bilaspur", "Polygon", 1], "relation_364168": ["Q2980937", "solan", "Polygon", 1], "relation_364175": ["Q654331", "sirmaur", "Polygon", 1], "relation_364181": ["Q1921404", "shimla", "Polygon", 1], "relation_374809": ["Q1773437", "uttarkashi", "Polygon", 1], "relation_374815": ["Q1797372", "chamoli", "Polygon", 1], "relation_374820": ["Q1945425", "pithoragarh", "Polygon", 1], "relation_374914": ["Q1815313", "bageshwar", "Polygon", 1], "relation_374925": ["Q1805059", "rudraprayag", "Polygon", 1], "relation_374930": ["Q1357107", "tehri_garhwal", "Polygon", 1], "relation_374938": ["Q1805066", "almora", "Polygon", 1], "relation_374944": ["Q288278", "champawat", "Polygon", 1], "relation_374966": ["Q1805082", "udham_singh_nagar", "Polygon", 1], "relation_374972": ["Q2085474", "pauri_garhwal", "Polygon", 1], "relation_374978": ["Q2270438", "haridwar", "Polygon", 1], "relation_374983": ["Q1815740", "dehradun", "Polygon", 1], "relation_448985": ["Q15188", "the_nilgiris_district", "Polygon", 1], "relation_556150": ["Q1351487", "jalpaiguri", "Polygon", 1], "relation_1568261": ["Q77474", "madhubani", "Polygon", 1], "relation_1568262": ["Q100120", "saharsa", "Polygon", 1], "relation_1568263": ["Q49160", "darbhanga", "Polygon", 1], "relation_1568264": ["Q100139", "supaul", "Polygon", 1], "relation_1568265": ["Q100144", "sitamarhi", "Polygon", 1], "relation_1768896": ["Q1921210", "leh_district", "Polygon", 1], "relation_1775673": ["Q49159", "purba_champaran", "Polygon", 1], "relation_1786178": ["Q1650798", "kargil_district", "Polygon", 1], "relation_1789228": ["Q2728658", "kochbihar", "Polygon", 1], "relation_1789229": ["Q42618", "kokrajhar", "Polygon", 1], "relation_1790778": ["Q533839", "dakshin_dinajpur", "Polygon", 1], "relation_1790779": ["Q1134759", "darjeeling", "Polygon", 1], "relation_1790780": ["Q77375", "kishanganj", "Polygon", 1], "relation_1790781": ["Q2019766", "uttar_dinajpur", "Polygon", 1], "relation_1790814": ["Q1772832", "east_sikkim_district", "Polygon", 1], "relation_1790815": ["Q1784149", "north_sikkim_district", "Polygon", 1], "relation_1790816": ["Q1805051", "south_sikkim_district", "Polygon", 1], "relation_1790817": ["Q611357", "west_sikkim_district", "Polygon", 1], "relation_1791154": ["Q42197", "bongaigaon", "Polygon", 1], "relation_1791158": ["Q41249", "barpeta", "Polygon", 1], "relation_1791238": ["Q42779", "nalbari", "Polygon", 1], "relation_1791255": ["Q42461", "darrang", "Polygon", 1], "relation_1791256": ["Q2247441", "kamrup", "Polygon", 1], "relation_1791397": ["Q2049820", "maldah", "Polygon", 1], "relation_1791527": ["Q77568", "katihar", "Polygon", 1], "relation_1798824": ["Q42016", "barmer", "Polygon", 1], "relation_1798825": ["Q1460832", "jalor", "Polygon", 1], "relation_1798829": ["Q1434965", "jodhpur", "Polygon", 1], "relation_1798830": ["Q46925", "pali", "Polygon", 1], "relation_1798847": ["Q1419708", "jaisalmer", "Polygon", 1], "relation_1804770": ["Q1937875", "unnao", "Polygon", 1], "relation_1818782": ["Q15158", "kanyakumari_district", "MultiPolygon", 7], "relation_1818783": ["Q15200", "tirunelveli_kattabo", "MultiPolygon", 2], "relation_1818784": ["Q162612", "thiruvananthapuram", "MultiPolygon", 2], "relation_1819211": ["Q15190", "pudukkottai_district", "MultiPolygon", 10], "relation_1819212": ["Q15195", "sivagangai_district", "Polygon", 2], "relation_1819213": ["Q15209", "virudhunagar_district", "Polygon", 1], "relation_1819273": ["Q15154", "dindigul_district", "Polygon", 1], "relation_1819274": ["Q301821", "idukki", "Polygon", 1], "relation_1819275": ["Q15184", "madurai_district", "Polygon", 1], "relation_1819276": ["Q15196", "theni_district", "Polygon", 1], "relation_1819317": ["Q15136", "coimbatore_district", "Polygon", 1], "relation_1819318": ["Q15155", "erode_district", "Polygon", 1], "relation_1819319": ["Q15182", "karur_district", "Polygon", 1], "relation_1819320": ["Q15187", "namakkal_district", "Polygon", 1], "relation_1819321": ["Q1535742", "palghat", "Polygon", 1], "relation_1819322": ["Q15192", "salem_district", "Polygon", 1], "relation_1819323": ["Q15201", "tiruchchirappalli_district", "MultiPolygon", 4], "relation_1819362": ["Q15152", "dharmapuri_district", "Polygon", 1], "relation_1819586": ["Q15112", "ariyalur_district", "Polygon", 1], "relation_1819588": ["Q15150", "cuddalore_district", "Polygon", 4], "relation_1819589": ["Q15157", "kanchipuram_district", "Polygon", 1], "relation_1819590": ["Q639264", "karaikal", "Polygon", 1], "relation_1819591": ["Q15185", "nagapattinam_district", "MultiPolygon", 2], "relation_1819592": ["Q15186", "perambalur_district", "Polygon", 1], "relation_1819594": ["Q15194", "thanjavur_district", "Polygon", 8], "relation_1819595": ["Q15204", "thiruvallur_district", "Polygon", 1], "relation_1819596": ["Q15197", "thiruvarur_district", "Polygon", 1], "relation_1819597": ["Q15207", "tiruvanamalai_district", "Polygon", 1], "relation_1819598": ["Q15206", "vellore_district", "Polygon", 1], "relation_1819599": ["Q15205", "viluppuram_district", "MultiPolygon", 2], "relation_1819773": ["Q15191", "ramanathapuram_district", "MultiPolygon", 35], "relation_1819774": ["Q15198", "thoothukudi_district", "MultiPolygon", 4], "relation_1942443": ["Q107941", "central_delhi", "Polygon", 1], "relation_1942588": ["Q107960", "east_delhi", "Polygon", 1], "relation_1942602": ["Q429329", "north_east_delhi", "Polygon", 1], "relation_1942605": ["Q693367", "north_delhi", "Polygon", 1], "relation_1942609": ["Q766125", "north_west_delhi", "Polygon", 1], "relation_1942620": ["Q549807", "west_delhi", "Polygon", 1], "relation_1942625": ["Q2379189", "south_west_delhi", "Polygon", 1], "relation_1942663": ["Q2061938", "south_delhi", "Polygon", 1], "relation_1942687": ["Q2086226", "ambala", "MultiPolygon", 2], "relation_1942810": ["Q1898143", "panchkula", "Polygon", 1], "relation_1942848": ["Q980118", "kurukshetra", "Polygon", 1], "relation_1942858": ["Q607915", "karnal", "Polygon", 1], "relation_1942866": ["Q2086163", "panipat", "Polygon", 1], "relation_1942904": ["Q2241746", "sonipat", "Polygon", 1], "relation_1942913": ["Q614037", "kaithal", "Polygon", 1], "relation_1942917": ["Q268605", "jind", "Polygon", 1], "relation_1942921": ["Q1815773", "hisar", "Polygon", 1], "relation_1942926": ["Q2301753", "fatehabad", "Polygon", 1], "relation_1942933": ["Q526101", "sirsa", "Polygon", 1], "relation_1942937": ["Q967388", "rohtak", "Polygon", 1], "relation_1942946": ["Q1948260", "jhajjar", "Polygon", 1], "relation_1942977": ["Q1852857", "bhiwani_district", "Polygon", 1], "relation_1942988": ["Q684019", "mahendragarh", "Polygon", 1], "relation_1942991": ["Q2301759", "rewari", "Polygon", 1], "relation_1943060": ["Q2086173", "faridabad", "Polygon", 1], "relation_1944353": ["Q2321899", "kishtwar", "Polygon", 1], "relation_1944390": ["Q1947311", "udhampur", "Polygon", 1], "relation_1944878": ["Q2375700", "kathua", "Polygon", 1], "relation_1944884": ["Q1947371", "jammu", "Polygon", 1], "relation_1944895": ["Q544279", "rajauri", "Polygon", 1], "relation_1944922": ["Q2983134", "punch", "Polygon", 1], "relation_1944955": ["Q2982349", "anantnag", "Polygon", 1], "relation_1944956": ["Q2085364", "pulwama", "Polygon", 1], "relation_1944967": ["Q2594218", "badgam", "Polygon", 1], "relation_1944971": ["Q1912057", "baramula", "Polygon", 1], "relation_1944978": ["Q2297306", "kupwara", "Polygon", 1], "relation_1948489": ["Q172485", "fategarh_sahib", "Polygon", 1], "relation_1948490": ["Q172482", "ludhiana", "Polygon", 1], "relation_1948503": ["Q172488", "bathinda", "Polygon", 1], "relation_1948506": ["Q1946896", "moga", "Polygon", 1], "relation_1948530": ["Q1947359", "muktsar", "Polygon", 1], "relation_1948544": ["Q172494", "faridkot", "Polygon", 1], "relation_1948545": ["Q172385", "firozpur", "Polygon", 1], "relation_1948548": ["Q202822", "amritsar", "Polygon", 1], "relation_1948549": ["Q172363", "kapurthala", "MultiPolygon", 2], "relation_1948558": ["Q146708", "gurdaspur", "Polygon", 1], "relation_1948563": ["Q1817425", "jalandhar", "Polygon", 1], "relation_1948565": ["Q202710", "shaheed_bhagat_singh_nagar", "Polygon", 1], "relation_1948566": ["Q304800", "hoshiarpur", "Polygon", 1], "relation_1948585": ["Q172391", "patiala", "MultiPolygon", 2], "relation_1948979": ["Q778996", "bikaner", "Polygon", 1], "relation_1948980": ["Q1419696", "sri_ganganagar", "Polygon", 1], "relation_1949081": ["Q1507174", "nagaur", "Polygon", 1], "relation_1949082": ["Q205719", "sirohi", "Polygon", 1], "relation_1949098": ["Q1090006", "churu", "Polygon", 1], "relation_1949099": ["Q1356112", "hanumangarh", "Polygon", 1], "relation_1949106": ["Q1471427", "jhunjhunun", "Polygon", 1], "relation_1949107": ["Q12945777", "sikar", "Polygon", 1], "relation_1949118": ["Q413037", "ajmer", "MultiPolygon", 2], "relation_1950060": ["Q449690", "alwar", "MultiPolygon", 2], "relation_1950061": ["Q854861", "bharatpur", "Polygon", 2], "relation_1950062": ["Q1134781", "jaipur", "Polygon", 1], "relation_1950072": ["Q1173042", "dausa", "Polygon", 1], "relation_1950073": ["Q1207709", "dhaulpur", "Polygon", 1], "relation_1950074": ["Q1419668", "karauli", "Polygon", 1], "relation_1950075": ["Q1507166", "sawai_madhopur", "Polygon", 1], "relation_1950076": ["Q915880", "tonk", "Polygon", 1], "relation_1950088": ["Q2329717", "baran", "Polygon", 1], "relation_1950089": ["Q1471417", "jhalawar", "Polygon", 1], "relation_1950090": ["Q999432", "kota", "Polygon", 1], "relation_1950091": ["Q1870014", "mandsaur", "Polygon", 1], "relation_1950092": ["Q2341713", "neemuch", "Polygon", 1], "relation_1950130": ["Q806969", "banswara", "Polygon", 1], "relation_1950131": ["Q41991", "bhilwara", "Polygon", 1], "relation_1950132": ["Q670405", "bundi", "Polygon", 1], "relation_1950133": ["Q1265687", "dungarpur", "Polygon", 1], "relation_1950134": ["Q596693", "rajsamand", "MultiPolygon", 3], "relation_1950135": ["Q1321577", "udaipur", "MultiPolygon", 3], "relation_1950800": ["Q2019694", "mahesana_district", "Polygon", 1], "relation_1950801": ["Q1815269", "patan", "Polygon", 1], "relation_1950802": ["Q1772856", "sabar_kantha_district", "Polygon", 1], "relation_1950885": ["Q186518", "dahod_district", "MultiPolygon", 2], "relation_1950886": ["Q1772860", "gandhinagar_district", "Polygon", 1], "relation_1950887": ["Q1755463", "kheda_district", "Polygon", 1], "relation_1950888": ["Q1781463", "panch_mahal_district", "Polygon", 2], "relation_1950889": ["Q578285", "vadodara_district", "Polygon", 1], "relation_1952513": ["Q1797230", "narmada_district", "Polygon", 1], "relation_1952514": ["Q1797317", "surat", "Polygon", 1], "relation_1952515": ["Q1135616", "the_dangs", "Polygon", 1], "relation_1952531": ["Q46107", "dadra_and_nagar_haveli", "MultiPolygon", 2], "relation_1952532": ["Q1946743", "valsad", "MultiPolygon", 2], "relation_1953042": ["Q1158197", "daman", "Polygon", 1], "relation_1953043": ["Q237535", "surendranagar_district", "MultiPolygon", 2], "relation_1953566": ["Q401686", "ahmedabad_district", "Polygon", 1], "relation_1953567": ["Q1815245", "rajkot", "MultiPolygon", 2], "relation_1953588": ["Q485683", "anand_district", "Polygon", 1], "relation_1958008": ["Q1797363", "baghpat", "Polygon", 1], "relation_1958009": ["Q1937865", "bijnor", "Polygon", 1], "relation_1958010": ["Q1764627", "meerut", "Polygon", 1], "relation_1958011": ["Q2365710", "muzaffarnagar", "Polygon", 1], "relation_1958012": ["Q1797326", "saharanpur", "Polygon", 1], "relation_1958053": ["Q1785950", "gautam_buddha_nagar", "Polygon", 1], "relation_1958054": ["Q1773444", "ghaziabad", "Polygon", 1], "relation_1958055": ["Q1891677", "jyotiba_phule_nagar", "Polygon", 1], "relation_1958143": ["Q766918", "aligarh", "Polygon", 1], "relation_1958144": ["Q1752328", "bulandshahr", "Polygon", 1], "relation_1958145": ["Q1814892", "hathras", "Polygon", 1], "relation_1958146": ["Q1773422", "mathura", "Polygon", 1], "relation_1958196": ["Q1797378", "bareilly", "Polygon", 1], "relation_1958197": ["Q1345006", "moradabad", "Polygon", 1], "relation_1958198": ["Q1815331", "rampur", "Polygon", 1], "relation_1958554": ["Q606343", "agra", "Polygon", 1], "relation_1958555": ["Q1815262", "budaun", "Polygon", 1], "relation_1958556": ["Q1773429", "etah", "Polygon", 1], "relation_1958557": ["Q1946950", "firozabad", "Polygon", 1], "relation_1958605": ["Q1897251", "farrukhabad", "Polygon", 1], "relation_1958606": ["Q1816657", "mainpuri", "Polygon", 1], "relation_1958607": ["Q2980705", "pilibhit", "Polygon", 1], "relation_1958608": ["Q1812557", "shahjahanpur", "Polygon", 1], "relation_1958963": ["Q1812548", "bahraich", "Polygon", 1], "relation_1958964": ["Q1948380", "balrampur", "Polygon", 1], "relation_1958965": ["Q1755447", "kheri", "Polygon", 1], "relation_1958966": ["Q1945458", "sharawasti", "Polygon", 1], "relation_1958967": ["Q1815339", "siddharth_nagar", "Polygon", 1], "relation_1958983": ["Q825673", "kushinagar", "Polygon", 1], "relation_1958984": ["Q1356139", "mahrajganj", "Polygon", 1], "relation_1959017": ["Q1772822", "hardoi", "Polygon", 1], "relation_1959018": ["Q1773416", "lucknow", "Polygon", 1], "relation_1959019": ["Q1812539", "sitapur", "Polygon", 1], "relation_1959036": ["Q2089152", "kanpur_nagar", "Polygon", 1], "relation_1959117": ["Q1812533", "auraiya", "Polygon", 1], "relation_1959118": ["Q1815288", "etawah", "Polygon", 1], "relation_1959120": ["Q2089115", "jalaun", "Polygon", 1], "relation_1959122": ["Q1937885", "jhansi", "Polygon", 1], "relation_1959123": ["Q627979", "kannauj", "Polygon", 1], "relation_1959124": ["Q610612", "kanpur_dehat", "Polygon", 1], "relation_1959125": ["Q1947336", "lalitpur", "Polygon", 1], "relation_1959692": ["Q633114", "barabanki", "Polygon", 1], "relation_1959699": ["Q1937857", "gonda", "Polygon", 1], "relation_1959787": ["Q715267", "basti", "Polygon", 1], "relation_1959788": ["Q1814132", "faizabad", "Polygon", 1], "relation_1959789": ["Q1946829", "fatehpur", "Polygon", 1], "relation_1959790": ["Q2019757", "hamirpur", "Polygon", 1], "relation_1959791": ["Q1321157", "rae_bareilly", "Polygon", 1], "relation_1959819": ["Q1773426", "prayagraj", "Polygon", 1], "relation_1959820": ["Q2131759", "banda", "Polygon", 1], "relation_1959821": ["Q1946937", "kaushambi", "Polygon", 1], "relation_1959822": ["Q1815322", "mahoba", "MultiPolygon", 3], "relation_1959823": ["Q1473962", "pratapgarh", "Polygon", 1], "relation_1959824": ["Q1356154", "sultanpur", "Polygon", 1], "relation_1959867": ["Q456764", "ambedkar_nagar", "Polygon", 1], "relation_1959868": ["Q793553", "azamgarh", "Polygon", 1], "relation_1959869": ["Q584644", "ballia", "Polygon", 1], "relation_1959870": ["Q731746", "deoria", "Polygon", 1], "relation_1959871": ["Q1287993", "ghazipur", "Polygon", 1], "relation_1959872": ["Q1144349", "gorakhpur", "Polygon", 1], "relation_1959873": ["Q1518847", "mau", "Polygon", 1], "relation_1959874": ["Q1945445", "sait_kibir_nagar", "Polygon", 1], "relation_1959911": ["Q2733369", "chandauli", "Polygon", 1], "relation_1959912": ["Q1356060", "jaunpur", "Polygon", 1], "relation_1959913": ["Q1143894", "mirzapur", "Polygon", 1], "relation_1959914": ["Q127533", "sant_ravidas_nagar", "Polygon", 1], "relation_1959915": ["Q607798", "sonbhadra", "Polygon", 1], "relation_1959916": ["Q1321140", "varanasi", "Polygon", 1], "relation_1960144": ["Q100124", "pashchim_champaran", "Polygon", 1], "relation_1960150": ["Q100095", "sheohar", "Polygon", 1], "relation_1960158": ["Q49171", "gopalganj", "Polygon", 1], "relation_1960173": ["Q42901", "araria", "Polygon", 1], "relation_1960187": ["Q100082", "purnia", "Polygon", 1], "relation_1960212": ["Q49155", "bhagalpur", "Polygon", 1], "relation_1960214": ["Q77746", "madhepura", "Polygon", 1], "relation_1960223": ["Q49175", "khagaria", "Polygon", 1], "relation_1960237": ["Q77452", "munger", "Polygon", 1], "relation_1960263": ["Q2030017", "deoghar", "Polygon", 1], "relation_1960265": ["Q100131", "siwan", "Polygon", 1], "relation_1960276": ["Q100146", "saran", "Polygon", 1], "relation_1960284": ["Q77731", "muzaffarpur", "Polygon", 1], "relation_1960289": ["Q100130", "vaishali", "Polygon", 1], "relation_1960291": ["Q100117", "samastipur", "Polygon", 1], "relation_1960294": ["Q49153", "bhojpur", "Polygon", 1], "relation_1960296": ["Q100077", "patna", "Polygon", 1], "relation_1963161": ["Q49161", "buxar", "Polygon", 1], "relation_1963163": ["Q77367", "kaimur_(bhabua)", "Polygon", 1], "relation_1963164": ["Q100085", "rohtas", "Polygon", 1], "relation_1963165": ["Q49176", "jehanabad", "Polygon", 1], "relation_1963166": ["Q43086", "aurangabad", "Polygon", 1], "relation_1963167": ["Q49173", "gaya", "Polygon", 1], "relation_1963173": ["Q77633", "nalanda", "Polygon", 1], "relation_1963174": ["Q49157", "begusarai", "Polygon", 1], "relation_1963176": ["Q100067", "nawada", "Polygon", 1], "relation_1963177": ["Q100093", "sheikhpura", "Polygon", 1], "relation_1963178": ["Q77505", "lakhisarai", "Polygon", 1], "relation_1963183": ["Q49168", "jamui", "Polygon", 1], "relation_1966288": ["Q2088440", "birbhum", "Polygon", 1], "relation_1966289": ["Q1546240", "murshidabad", "Polygon", 1], "relation_1970250": ["Q1143880", "nadia", "Polygon", 1], "relation_1970280": ["Q808023", "purba_bardhaman", "Polygon", 1], "relation_1970297": ["Q548518", "hugli", "Polygon", 1], "relation_1971787": ["Q2088458", "bankura", "Polygon", 1], "relation_1971789": ["Q307474", "puruliya", "Polygon", 1], "relation_1971803": ["Q1855537", "paschim_medinipur", "Polygon", 1], "relation_1971807": ["Q1979499", "chatra", "Polygon", 1], "relation_1971808": ["Q2085480", "kodarma", "Polygon", 1], "relation_1972005": ["Q2302076", "garhwa", "Polygon", 1], "relation_1972015": ["Q2295865", "gumla", "Polygon", 1], "relation_1972016": ["Q1948301", "lohardaga", "Polygon", 1], "relation_1972022": ["Q1945416", "hazaribagh", "Polygon", 1], "relation_1972023": ["Q1947380", "ranchi", "Polygon", 1], "relation_1972028": ["Q1950527", "pashchimi_singhbhum", "Polygon", 1], "relation_1972030": ["Q2452921", "purbi_singhbhum", "Polygon", 1], "relation_1972052": ["Q2302065", "giridih", "Polygon", 1], "relation_1972059": ["Q2295925", "bokaro", "Polygon", 1], "relation_1972061": ["Q2295930", "pakaur", "Polygon", 1], "relation_1972071": ["Q2577657", "dumka", "Polygon", 1], "relation_1972072": ["Q638980", "godda", "Polygon", 1], "relation_1972073": ["Q767878", "sahibganj", "Polygon", 1], "relation_1972075": ["Q43097", "banka", "Polygon", 1], "relation_1972132": ["Q2577551", "jashpur", "Polygon", 1], "relation_1972133": ["Q1805075", "surguja", "Polygon", 1], "relation_1972176": ["Q100157", "bilaspur", "Polygon", 1], "relation_1972177": ["Q2295896", "koriya", "Polygon", 1], "relation_1972670": ["Q2299121", "korba", "Polygon", 2], "relation_1972671": ["Q2286310", "raigarh", "MultiPolygon", 2], "relation_1972681": ["Q2450240", "mahasamund", "Polygon", 1], "relation_1972682": ["Q2295914", "raipur", "Polygon", 1], "relation_1972688": ["Q100182", "durg", "Polygon", 1], "relation_1972689": ["Q2450255", "kabirdham", "Polygon", 1], "relation_1972694": ["Q2341800", "rajnandgaon", "Polygon", 1], "relation_1972717": ["Q100152", "bastar", "MultiPolygon", 2], "relation_1972718": ["Q100211", "dantewada", "MultiPolygon", 2], "relation_1972719": ["Q100190", "dhamtari", "Polygon", 1], "relation_1972720": ["Q2310530", "uttar_bastar_kanker", "Polygon", 1], "relation_1973948": ["Q2341700", "bhind", "MultiPolygon", 2], "relation_1973949": ["Q2206266", "datia", "MultiPolygon", 4], "relation_1973950": ["Q2085310", "gwalior", "Polygon", 1], "relation_1973951": ["Q2341467", "morena", "Polygon", 1], "relation_1973955": ["Q620105", "sheopur", "Polygon", 1], "relation_1973956": ["Q2299042", "shivpuri", "Polygon", 1], "relation_1973967": ["Q930027", "guna", "Polygon", 1], "relation_1973968": ["Q526862", "rewa", "Polygon", 1], "relation_1973969": ["Q2449793", "sidhi", "Polygon", 1], "relation_1973983": ["Q2341630", "panna", "MultiPolygon", 5], "relation_1973984": ["Q2577924", "satna", "MultiPolygon", 7], "relation_1974088": ["Q2449785", "chhatarpur", "Polygon", 3], "relation_1974089": ["Q2449760", "tikamgarh", "Polygon", 1], "relation_1976080": ["Q1797245", "bhopal", "Polygon", 1], "relation_1976081": ["Q2085421", "sagar", "Polygon", 1], "relation_1976082": ["Q1815253", "vidisha", "Polygon", 1], "relation_1976132": ["Q1833306", "rajgarh", "Polygon", 1], "relation_1976133": ["Q2299164", "ratlam", "Polygon", 1], "relation_1976134": ["Q2449803", "shajapur", "Polygon", 1], "relation_1976159": ["Q2299069", "dhar", "Polygon", 1], "relation_1976160": ["Q742938", "indore", "Polygon", 1], "relation_1976161": ["Q2085336", "jhabua", "Polygon", 1], "relation_1976162": ["Q892641", "ujjain", "Polygon", 1], "relation_1976212": ["Q2126754", "barwani", "Polygon", 1], "relation_1976213": ["Q2025998", "dewas", "Polygon", 1], "relation_1976214": ["Q2085436", "khandwa", "Polygon", 1], "relation_1976215": ["Q2273900", "khargone", "Polygon", 1], "relation_1976216": ["Q2299029", "sehore", "Polygon", 1], "relation_1976219": ["Q2173003", "harda", "Polygon", 1], "relation_1976220": ["Q620801", "hoshangabad", "Polygon", 1], "relation_1976221": ["Q1815223", "raisen", "Polygon", 1], "relation_1982903": ["Q2479331", "damoh", "Polygon", 1], "relation_1982904": ["Q632093", "jabalpur", "Polygon", 1], "relation_1982914": ["Q1815279", "betul", "Polygon", 1], "relation_1982915": ["Q1986096", "chhindwara", "Polygon", 1], "relation_1982916": ["Q2341616", "narsimhapur", "Polygon", 1], "relation_1982942": ["Q2221184", "seoni", "Polygon", 1], "relation_1982958": ["Q641904", "balaghat", "Polygon", 1], "relation_1982959": ["Q2398551", "dindori", "Polygon", 1], "relation_1982960": ["Q746441", "katni", "Polygon", 1], "relation_1982961": ["Q2341670", "mandla", "Polygon", 1], "relation_1982962": ["Q2085464", "shahdol", "Polygon", 1], "relation_1982963": ["Q620297", "umaria", "Polygon", 1], "relation_1984023": ["Q808140", "bargarh", "Polygon", 1], "relation_1984024": ["Q1810550", "nuapada", "Polygon", 1], "relation_1984026": ["Q804642", "balangir", "Polygon", 1], "relation_1984027": ["Q1473957", "sonapur", "Polygon", 1], "relation_1984035": ["Q569181", "jharsuguda", "Polygon", 1], "relation_1984036": ["Q1267306", "sambalpur", "Polygon", 1], "relation_1984039": ["Q2296047", "sundargarh", "Polygon", 1], "relation_1984042": ["Q2269639", "debagarh", "Polygon", 1], "relation_1984065": ["Q2363639", "baudh", "Polygon", 1], "relation_1984066": ["Q2367388", "nayagarh", "Polygon", 1], "relation_1984089": ["Q662818", "khordha", "Polygon", 1], "relation_1984452": ["Q2022256", "cuttack", "Polygon", 1], "relation_1984462": ["Q1772807", "anugul", "Polygon", 1], "relation_1984463": ["Q1948389", "dhenkanal", "Polygon", 1], "relation_1984464": ["Q2087771", "jajapur", "Polygon", 1], "relation_1984465": ["Q2085428", "kendujhar", "Polygon", 1], "relation_1984480": ["Q2022279", "baleshwar", "MultiPolygon", 2], "relation_1984481": ["Q1914546", "mayurbhanj", "Polygon", 1], "relation_1984497": ["Q1876588", "kalahandi", "Polygon", 1], "relation_1984498": ["Q2396798", "nabarangapur", "Polygon", 1], "relation_1984516": ["Q1947300", "koraput", "Polygon", 1], "relation_1984517": ["Q5122619", "malkangiri", "Polygon", 1], "relation_1984529": ["Q2577997", "rayagada", "Polygon", 1], "relation_1984576": ["Q1947292", "gajapati", "Polygon", 1], "relation_1984577": ["Q2085500", "kandhamal", "Polygon", 1], "relation_1985898": ["Q1797383", "dhule", "Polygon", 1], "relation_1985899": ["Q1623525", "nandubar", "Polygon", 1], "relation_1985907": ["Q1797269", "nashik", "Polygon", 1], "relation_1986123": ["Q401744", "ahmednagar", "Polygon", 1], "relation_1986140": ["Q1797336", "pune_district", "Polygon", 1], "relation_1986143": ["Q1135612", "satara", "Polygon", 1], "relation_1986246": ["Q1771768", "ratnagiri", "MultiPolygon", 3], "relation_1988443": ["Q1917227", "gondiya", "Polygon", 1], "relation_1988452": ["Q1804847", "gadchiroli", "Polygon", 1], "relation_1988465": ["Q1797274", "chandrapur", "Polygon", 1], "relation_1988468": ["Q1813857", "bhandara", "Polygon", 1], "relation_1991091": ["Q1797367", "nagpur", "Polygon", 1], "relation_1991095": ["Q980608", "wardha", "Polygon", 1], "relation_1991125": ["Q1804852", "yavatmal", "Polygon", 1], "relation_1991132": ["Q1804858", "washim", "Polygon", 1], "relation_1991136": ["Q520510", "akola", "Polygon", 1], "relation_1991143": ["Q692389", "nanded", "Polygon", 1], "relation_1991161": ["Q2087615", "hingoli", "Polygon", 1], "relation_1991609": ["Q1797291", "jalgaon", "Polygon", 1], "relation_1991614": ["Q592942", "aurangabad", "Polygon", 1], "relation_1991618": ["Q1804863", "jalna", "Polygon", 1], "relation_1991619": ["Q1797389", "parbhani", "Polygon", 1], "relation_1991622": ["Q814037", "bid", "Polygon", 1], "relation_1991624": ["Q1948713", "latur", "Polygon", 1], "relation_1997159": ["Q1425060", "sangli_district", "Polygon", 1], "relation_1997163": ["Q1797312", "kolhapur", "Polygon", 2], "relation_1997166": ["Q768332", "sindhudurg", "MultiPolygon", 24], "relation_1997168": ["Q1797263", "solapur", "Polygon", 1], "relation_1997169": ["Q1647186", "osmanabad", "Polygon", 1], "relation_1997193": ["Q108234", "north_goa", "MultiPolygon", 2], "relation_1997194": ["Q108244", "south_goa", "MultiPolygon", 7], "relation_2018154": ["Q1356124", "kollam", "MultiPolygon", 2], "relation_2018176": ["Q634935", "pattanamtitta", "MultiPolygon", 2], "relation_2018177": ["Q2429655", "thrissur", "Polygon", 1], "relation_2018186": ["Q1030918", "malappuram", "Polygon", 1], "relation_2018203": ["Q1364427", "wayanad", "Polygon", 1], "relation_2018247": ["Q2980652", "kannur_district", "MultiPolygon", 2], "relation_2018248": ["Q1419703", "kasaragod_district", "MultiPolygon", 2], "relation_2018249": ["Q1142979", "kozhikode", "MultiPolygon", 2], "relation_2019940": ["Q862912", "chamarajanagar_district", "Polygon", 1], "relation_2020510": ["Q591781", "mysuru_district", "Polygon", 3], "relation_2020511": ["Q1553185", "kodagu", "Polygon", 1], "relation_2020528": ["Q950571", "dakshina_kannada", "Polygon", 1], "relation_2020529": ["Q1483337", "udupi_district", "MultiPolygon", 26], "relation_2020588": ["Q806464", "bangalore_rural", "Polygon", 1], "relation_2020589": ["Q806463", "bangalore_urban", "Polygon", 1], "relation_2020590": ["Q2509866", "kolar_district", "Polygon", 1], "relation_2020591": ["Q2768290", "mandya_district", "Polygon", 1], "relation_2020603": ["Q743077", "chikkamagaluru_district", "Polygon", 1], "relation_2020605": ["Q956732", "hassan_district", "Polygon", 1], "relation_2020623": ["Q165264", "chitradurga_district", "Polygon", 1], "relation_2020624": ["Q1301635", "tumkur_district", "MultiPolygon", 2], "relation_2020648": ["Q815464", "belgaum_district", "MultiPolygon", 2], "relation_2020649": ["Q2981389", "shimoga_district", "Polygon", 1], "relation_2020650": ["Q579205", "uttara_kannada", "MultiPolygon", 40], "relation_2020666": ["Q1910231", "bagalkote_district", "Polygon", 1], "relation_2020667": ["Q1727570", "bijapur_district", "Polygon", 1], "relation_2020668": ["Q1790904", "dharwad_district", "Polygon", 1], "relation_2020669": ["Q2353931", "gadag_district", "Polygon", 1], "relation_2020670": ["Q765481", "haveri_district", "Polygon", 1], "relation_2020692": ["Q1791926", "bellary_district", "Polygon", 1], "relation_2020693": ["Q956387", "koppal_district", "Polygon", 1], "relation_2020694": ["Q1430830", "raichur_district", "Polygon", 1], "relation_2020713": ["Q2641873", "kalaburagi_district", "Polygon", 1], "relation_2020723": ["Q1790568", "bidar_district", "Polygon", 1], "relation_2022096": ["Q15395", "srikakulam", "Polygon", 1], "relation_2022097": ["Q15392", "vizianagaram", "Polygon", 1], "relation_2022111": ["Q15394", "visakhapatnam", "MultiPolygon", 3], "relation_2022126": ["Q15338", "east_godavari", "MultiPolygon", 5], "relation_2022127": ["Q15404", "west_godavari", "Polygon", 1], "relation_2022134": ["Q15371", "khammam", "Polygon", 1], "relation_2022135": ["Q15382", "krishna", "Polygon", 1], "relation_2022179": ["Q15211", "adilabad", "Polygon", 1], "relation_2022180": ["Q15373", "karimnagar", "Polygon", 1], "relation_2022181": ["Q213077", "warangal_urban", "Polygon", 1], "relation_2022212": ["Q15386", "medak", "Polygon", 1], "relation_2022213": ["Q15391", "nizamabad", "Polygon", 1], "relation_2022214": ["Q15388", "rangareddy", "Polygon", 1], "relation_2022220": ["Q15341", "guntur", "Polygon", 1], "relation_2022221": ["Q15384", "nalgonda", "Polygon", 1], "relation_2022227": ["Q15380", "mahabubnagar", "Polygon", 1], "relation_2022277": ["Q15381", "kurnool", "Polygon", 1], "relation_2022278": ["Q15390", "prakasam", "Polygon", 1], "relation_2022290": ["Q15342", "ysr", "Polygon", 1], "relation_2022291": ["Q15383", "sri_potti_sriramulu_nellore", "Polygon", 1], "relation_2022303": ["Q15212", "anantapur_district", "Polygon", 1], "relation_2022304": ["Q15213", "chittoor", "Polygon", 1], "relation_2025887": ["Q42485", "dhubri", "Polygon", 1], "relation_2025888": ["Q42522", "goalpara", "Polygon", 1], "relation_2025921": ["Q42737", "marigaon", "Polygon", 1], "relation_2025924": ["Q42558", "east_karbi_anglong", "Polygon", 1], "relation_2025931": ["Q42774", "dima_hasao_district", "Polygon", 1], "relation_2025971": ["Q42209", "cachar", "Polygon", 1], "relation_2025972": ["Q42686", "nagaon", "Polygon", 1], "relation_2026004": ["Q42505", "hailakandi", "Polygon", 1], "relation_2026005": ["Q42542", "karimganj", "Polygon", 1], "relation_2026041": ["Q42765", "sonitpur", "Polygon", 1], "relation_2026354": ["Q42517", "golaghat", "Polygon", 1], "relation_2026355": ["Q42611", "jorhat", "Polygon", 1], "relation_2026356": ["Q42743", "lakhimpur", "Polygon", 1], "relation_2026407": ["Q42473", "dhemaji", "Polygon", 1], "relation_2026439": ["Q42756", "tinsukia", "Polygon", 1], "relation_2026441": ["Q42479", "dibrugarh", "Polygon", 1], "relation_2026443": ["Q42768", "sivasagar", "Polygon", 1], "relation_2026459": ["Q2086546", "dhalai", "Polygon", 1], "relation_2026460": ["Q1947570", "west_tripura", "Polygon", 1], "relation_2026469": ["Q1920978", "north_tripura", "Polygon", 1], "relation_2026470": ["Q1822159", "south_tripura", "Polygon", 1], "relation_2027347": ["Q15424", "east_kameng", "Polygon", 1], "relation_2027348": ["Q15432", "papum_pare", "Polygon", 1], "relation_2027356": ["Q15436", "lower_subansiri", "Polygon", 1], "relation_2027358": ["Q15464", "upper_subansiri", "Polygon", 1], "relation_2027359": ["Q15453", "west_siang", "Polygon", 1], "relation_2027435": ["Q15419", "east_siang", "Polygon", 1], "relation_2027436": ["Q15465", "upper_siang", "Polygon", 1], "relation_2027455": ["Q15427", "changlang", "Polygon", 1], "relation_2027456": ["Q15446", "upper_dibang_valley", "Polygon", 1], "relation_2027457": ["Q15438", "lohit", "Polygon", 1], "relation_2027458": ["Q15448", "tirap", "Polygon", 1], "relation_2027474": ["Q2085455", "east_garo_hills", "Polygon", 1], "relation_2027475": ["Q2329228", "south_garo_hills", "Polygon", 1], "relation_2027476": ["Q2329181", "west_garo_hills", "Polygon", 1], "relation_2027522": ["Q1945304", "east_khasi_hills", "Polygon", 1], "relation_2027523": ["Q1920789", "west_jaintia_hills", "Polygon", 1], "relation_2027524": ["Q1884672", "ri-bhoi", "Polygon", 1], "relation_2027525": ["Q2064752", "west_khasi_hills", "Polygon", 1], "relation_2027870": ["Q2577281", "churachandpur", "Polygon", 1], "relation_2027871": ["Q1916666", "imphal_east", "Polygon", 1], "relation_2027872": ["Q2301717", "tamenglong", "Polygon", 1], "relation_2027934": ["Q938190", "bishnupur", "Polygon", 1], "relation_2027935": ["Q1822188", "imphal_west", "Polygon", 1], "relation_2027936": ["Q2301706", "senapati", "Polygon", 1], "relation_2027937": ["Q2086198", "thoubal", "Polygon", 1], "relation_2027970": ["Q2301769", "chandel", "Polygon", 1], "relation_2027971": ["Q735101", "ukhrul", "Polygon", 1], "relation_2027974": ["Q953530", "kohima", "Polygon", 1], "relation_2027975": ["Q590882", "phek", "Polygon", 1], "relation_2027976": ["Q681821", "wokha", "Polygon", 1], "relation_2027986": ["Q2175311", "mokokchung", "Polygon", 1], "relation_2027987": ["Q2339648", "mon", "Polygon", 1], "relation_2027988": ["Q2571393", "tuensang", "Polygon", 1], "relation_2027989": ["Q2091461", "zunheboto", "Polygon", 1], "relation_2029047": ["Q2086209", "lawngtlai", "Polygon", 1], "relation_2029048": ["Q1947352", "lunglei", "Polygon", 1], "relation_2029049": ["Q751531", "mamit", "Polygon", 1], "relation_2029050": ["Q1821714", "saiha", "Polygon", 1], "relation_2029066": ["Q1947322", "aizwal", "Polygon", 1], "relation_2029067": ["Q1965256", "champhai", "Polygon", 1], "relation_2029068": ["Q1947343", "kolasib", "Polygon", 1], "relation_2029069": ["Q2086190", "serchhip", "Polygon", 1], "relation_2663857": ["Q634262", "dimapur", "Polygon", 1], "relation_2763541": ["Q987", "new_delhi", "Polygon", 1], "relation_3390340": ["Q1431920", "purba_medinipur", "Polygon", 1], "relation_3560206": ["Q83486", "shahdara", "Polygon", 1], "relation_3577685": ["Q1815766", "gurugram", "Polygon", 1], "relation_3588253": ["Q25553535", "south_east_delhi", "Polygon", 1], "relation_3686856": ["Q1786949", "yadagiri_district", "Polygon", 1], "relation_3740342": ["Q1356097", "ernakulam", "Polygon", 1], "relation_3743889": ["Q928959", "alappuzha", "Polygon", 1], "relation_3743996": ["Q1353354", "kottayam", "MultiPolygon", 2], "relation_3841144": ["Q2449506", "kurung_kumey_district", "Polygon", 1], "relation_3841145": ["Q15449", "tawang_district", "Polygon", 1], "relation_3841146": ["Q15459", "west_kameng_district", "Polygon", 1], "relation_4210083": ["Q1863214", "davanagere_district", "Polygon", 1], "relation_4452723": ["Q1072629", "chikkaballapura_district", "Polygon", 1], "relation_4458921": ["Q427679", "ramanagara_district", "Polygon", 1], "relation_5335149": ["Q639279", "mahe_district", "MultiPolygon", 2], "relation_5335580": ["Q984035", "puducherry_district", "MultiPolygon", 12], "relation_5385295": ["Q1873644", "yamunanagar", "Polygon", 1], "relation_7255986": ["Q15340", "hyderabad", "Polygon", 1], "relation_7398836": ["Q47929", "buldhana", "Polygon", 1], "relation_7398837": ["Q2240791", "dhanbad", "Polygon", 1], "relation_7398838": ["Q1797306", "nainital", "Polygon", 1], "relation_7663387": ["Q28169753", "sangareddy", "Polygon", 1], "relation_7664883": ["Q27614841", "medchal\u2013malkajgiri", "Polygon", 1], "relation_7665824": ["Q28169756", "siddipet", "Polygon", 1], "relation_7666146": ["Q27897618", "jogulamba_gadwal", "Polygon", 1], "relation_7666378": ["Q28169759", "warangal_rural", "Polygon", 1], "relation_7666379": ["Q28170170", "jangaon", "Polygon", 1], "relation_7685040": ["Q28170173", "vikarabad", "Polygon", 1], "relation_7686916": ["Q28169747", "mancherial_district", "Polygon", 1], "relation_7686917": ["Q28170184", "komram_bheem", "Polygon", 1], "relation_7686918": ["Q28169750", "nirmal", "Polygon", 1], "relation_7691426": ["Q27614797", "peddapalli", "Polygon", 1], "relation_7691427": ["Q28169780", "jagtial", "Polygon", 1], "relation_7691428": ["Q28172781", "rajanna_sircilla", "Polygon", 1], "relation_7698599": ["Q28169767", "bhadradri_kothagudem", "Polygon", 1], "relation_7698600": ["Q28169775", "jayashankar_bhupalapally", "Polygon", 1], "relation_7699117": ["Q28169761", "mahabubabad", "Polygon", 1], "relation_7699215": ["Q28169770", "suryapet", "Polygon", 1], "relation_7700442": ["Q28169773", "nagarkurnool", "Polygon", 1], "relation_7700443": ["Q28169764", "yadadri_bhuvanagiri", "Polygon", 1], "relation_7700765": ["Q28172504", "wanaparthy", "Polygon", 1], "relation_7701043": ["Q27956125", "kamareddy", "Polygon", 1], "relation_7910817": ["Q15116", "chennai_district", "Polygon", 1], "relation_7964375": ["Q2085374", "mumbai_suburban", "MultiPolygon", 2], "relation_7964376": ["Q2341660", "mumbai_city", "MultiPolygon", 2], "relation_7965683": ["Q2019683", "raigad", "MultiPolygon", 8], "relation_7965684": ["Q943099", "thane", "MultiPolygon", 4], "relation_8258731": ["Q15244465", "gir_somnath_district", "MultiPolygon", 4], "relation_8258732": ["Q1797344", "junagadh_district", "Polygon", 2], "relation_8259844": ["Q854963", "bhavnagar_district", "MultiPolygon", 2], "relation_8259845": ["Q14594717", "devbhumi_dwaraka_district", "MultiPolygon", 33], "relation_8259846": ["Q1772815", "porbandar_district", "Polygon", 1], "relation_8260119": ["Q1797349", "nav_sari_district", "MultiPolygon", 4], "relation_8269589": ["Q5979727", "morbi_district", "MultiPolygon", 2], "relation_8269590": ["Q1063417", "kutch_district", "MultiPolygon", 4], "relation_8269591": ["Q854900", "bharuch_district", "MultiPolygon", 2], "relation_8269653": ["Q5979243", "chhota_udaipur_district", "Polygon", 1], "relation_8269654": ["Q14505072", "botad_district", "Polygon", 1], "relation_8269655": ["Q257946", "amreli_district", "MultiPolygon", 12], "relation_8269767": ["Q12175285", "aravalli_district", "Polygon", 1], "relation_8269768": ["Q670165", "tapi_district", "Polygon", 1], "relation_8269916": ["Q5706885", "mahisagar_district", "Polygon", 1], "relation_8271162": ["Q2982118", "jamnagar_district", "MultiPolygon", 11], "relation_8271163": ["Q806125", "banas_kantha_district", "Polygon", 1], "relation_8593769": ["Q6268840", "konkan_division", "Polygon", 1], "relation_9381362": ["Q1478937", "howrah", "Polygon", 1], "relation_9381363": ["Q1348", "kolkata", "Polygon", 1], "relation_9502792": ["Q61746006", "mulugu", "Polygon", 1], "relation_9502953": ["Q61746013", "narayanpet", "Polygon", 1], "relation_9510593": ["Q1585433", "pratapgarh", "Polygon", 3], "relation_9510594": ["Q1075011", "chittorgarh", "MultiPolygon", 5], "relation_9510709": ["Q1771774", "amravati", "Polygon", 1], "relation_9510814": ["Q1797254", "palamu", "Polygon", 1], "relation_9510815": ["Q2244762", "latehar", "Polygon", 1], "relation_9511253": ["Q776213", "ganjam", "Polygon", 1], "relation_9511283": ["Q1817158", "puri", "Polygon", 1], "relation_9511627": ["Q971581", "jagatsinghapur", "MultiPolygon", 6], "relation_9511741": ["Q685638", "bhadrak", "Polygon", 1], "relation_9513027": ["Q2308319", "south_24_parganas", "MultiPolygon", 119], "relation_9513028": ["Q338425", "north_24_parganas", "MultiPolygon", 2], "relation_9513166": ["Q2037672", "sahibzada_ajit_singh_nagar", "Polygon", 1], "relation_9513178": ["Q196508", "rupnagar", "Polygon", 1], "relation_9513284": ["Q188702", "fazilka", "Polygon", 1], "relation_9513306": ["Q172387", "mansa", "Polygon", 1], "relation_9513330": ["Q172269", "pathankot", "Polygon", 1], "relation_9513408": ["Q2298993", "tarn_taran", "Polygon", 1], "relation_9513462": ["Q2353293", "barnala", "Polygon", 1], "relation_9513553": ["Q1945515", "sangrur", "Polygon", 2], "relation_9514449": ["Q42917", "arwal", "Polygon", 1], "relation_9514809": ["Q2216696", "nuh", "Polygon", 1], "relation_9514899": ["Q2724926", "palwal", "Polygon", 1], "relation_9515009": ["Q796983", "north_and_middle_andaman", "MultiPolygon", 151], "relation_9515010": ["Q796979", "south_andaman", "MultiPolygon", 77], "relation_9515011": ["Q797295", "nicobar", "MultiPolygon", 44], "relation_9515358": ["Q15413", "anjaw", "Polygon", 1], "relation_9515359": ["Q21559824", "namsai", "Polygon", 1], "relation_9515443": ["Q2373368", "lower_dibang_valley", "Polygon", 1], "relation_9516095": ["Q63563625", "shi_yomi", "Polygon", 1], "relation_9516096": ["Q13602925", "lower_siang", "Polygon", 1], "relation_9516097": ["Q63563632", "lepa_rada", "Polygon", 1], "relation_9516098": ["Q18642331", "siang", "Polygon", 1], "relation_9516202": ["Q5627568", "longding", "Polygon", 1], "relation_9516226": ["Q48731073", "kamle", "Polygon", 1], "relation_9516234": ["Q21018627", "kra_daadi", "Polygon", 1], "relation_9519754": ["Q16086497", "gomati", "Polygon", 1], "relation_9519791": ["Q16086076", "sepahijala", "Polygon", 1], "relation_9519814": ["Q16086680", "khowai", "Polygon", 1], "relation_9520112": ["Q16087996", "unokoti", "Polygon", 1], "relation_9520279": ["Q28172110", "charkhi_dadri", "Polygon", 1], "relation_9520304": ["Q2597908", "kiphire", "Polygon", 1], "relation_9520317": ["Q1426783", "longleng", "Polygon", 1], "relation_9520359": ["Q516294", "peren", "Polygon", 1], "relation_9521247": ["Q24039029", "charaideo", "Polygon", 1], "relation_9521299": ["Q28110729", "majuli", "Polygon", 1], "relation_9521379": ["Q28110722", "bishwanath", "Polygon", 1], "relation_9521466": ["Q321998", "udalguri", "Polygon", 1], "relation_9521711": ["Q2574898", "chirang", "Polygon", 1], "relation_9521712": ["Q2360266", "baksa", "Polygon", 1], "relation_9521812": ["Q24949218", "west_karbi_anglong", "Polygon", 1], "relation_9521878": ["Q2464674", "kamrup_metropolitan", "Polygon", 1], "relation_9522272": ["Q24907599", "south_salmara-mankachar", "Polygon", 1], "relation_9522284": ["Q24699407", "hojai", "Polygon", 1], "relation_9522314": ["Q15961576", "south_west_garo_hills", "Polygon", 1], "relation_9522352": ["Q15923741", "south_west_khasi_hills", "Polygon", 1], "relation_9522423": ["Q15923776", "east_jaintia_hills", "Polygon", 1], "relation_9522478": ["Q7055466", "north_garo_hills", "Polygon", 1], "relation_9523297": ["Q16056266", "balod", "Polygon", 1], "relation_9523380": ["Q15663455", "baloda_bazar", "Polygon", 1], "relation_9523416": ["Q16961365", "gariaband", "Polygon", 1], "relation_9523467": ["Q16056268", "balrampur", "Polygon", 1], "relation_9523796": ["Q16938031", "surajpur", "Polygon", 1], "relation_9524016": ["Q16933590", "sukma", "MultiPolygon", 2], "relation_9524142": ["Q100164", "bijapur", "Polygon", 2], "relation_9524220": ["Q16254159", "bemetara", "Polygon", 1], "relation_9524254": ["Q2575633", "janjgir-champa", "Polygon", 1], "relation_9526430": ["Q12420995", "kondagaon", "Polygon", 1], "relation_9526431": ["Q2322000", "narayanpur", "Polygon", 1], "relation_9526513": ["Q13476249", "mungeli", "Polygon", 1], "relation_9526992": ["Q2980986", "jamtara", "Polygon", 1], "relation_9527238": ["Q367344", "khunti", "Polygon", 1], "relation_9527598": ["Q2663612", "ramgarh", "Polygon", 1], "relation_9529264": ["Q2597889", "simdega", "Polygon", 1], "relation_9529288": ["Q2362658", "seraikela_kharsawan", "Polygon", 1], "relation_9529684": ["Q15732396", "agar_malwa", "Polygon", 1], "relation_9529703": ["Q2667586", "alirajpur", "Polygon", 1], "relation_9530798": ["Q2299093", "anuppur", "Polygon", 1], "relation_9530970": ["Q2246416", "ashok_nagar", "Polygon", 1], "relation_9530993": ["Q2125592", "burhanpur", "Polygon", 1], "relation_9531024": ["Q2668638", "singrauli", "Polygon", 1], "relation_9531113": ["Q63563797", "niwari", "Polygon", 1], "relation_9531818": ["Q18003119", "palghar", "MultiPolygon", 4], "relation_9532320": ["Q28419387", "jiribam", "Polygon", 1], "relation_9532329": ["Q28419389", "noney", "Polygon", 1], "relation_9532475": ["Q28419386", "kangpokpi", "Polygon", 1], "relation_9532614": ["Q28419388", "tengnoupal", "Polygon", 1], "relation_9532615": ["Q28419390", "kamjong", "Polygon", 1], "relation_9532750": ["Q28173825", "kakching", "Polygon", 1], "relation_9533549": ["Q28173809", "pherzawl", "Polygon", 1], "relation_9536752": ["Q48731903", "noklak", "Polygon", 1], "relation_9537174": ["Q15183", "krishnagiri", "Polygon", 1], "relation_9538519": ["Q15202", "tiruppur", "Polygon", 1], "relation_9538920": ["Q2089141", "chitrakoot", "Polygon", 1], "relation_9539177": ["Q5653340", "hapur", "Polygon", 1], "relation_9539644": ["Q890800", "kasganj", "Polygon", 1], "relation_9539710": ["Q2999938", "shamli", "Polygon", 1], "relation_9540099": ["Q1071494", "amethi", "Polygon", 1], "relation_9540376": ["Q3000436", "sambhal", "Polygon", 1], "relation_9540776": ["Q4726845", "alipurduar", "Polygon", 1], "relation_9540811": ["Q29215602", "paschim_bardhaman", "Polygon", 1], "relation_9541218": ["Q29168456", "jhargram", "Polygon", 1], "relation_9541241": ["Q28769140", "kalimpong", "Polygon", 1], "relation_9544369": ["Q2983553", "bandipora", "Polygon", 1], "relation_9544370": ["Q1506029", "srinagar", "Polygon", 1], "relation_9544371": ["Q2556028", "ganderbal", "Polygon", 1], "relation_9547248": ["Q2321867", "kulgam", "Polygon", 1], "relation_9547249": ["Q2073646", "shopian", "Polygon", 1], "relation_9548023": ["Q2321956", "reasi", "Polygon", 1], "relation_9550285": ["Q1117086", "samba", "Polygon", 1], "relation_9550696": ["Q2298979", "doda", "Polygon", 1], "relation_9550697": ["Q2321939", "ramban", "Polygon", 1], "relation_9552697": ["Q5071071", "chandigarh", "Polygon", 1], "relation_9576276": ["Q631849", "diu", "MultiPolygon", 3], "relation_9576283": ["Q26927", "lakshadweep", "MultiPolygon", 32], "relation_9588868": ["Q2299172", "kendrapara", "MultiPolygon", 5], "relation_9602893": ["Q60493360", "kallakurichi", "Polygon", 1], "relation_10062837": [null, "pakke_kessang", "Polygon", 1]}
+// Copyright 2013 The Flutter Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+import 'package:flutter/services.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
+
+import 'fake_maps_controllers.dart';
+
+Widget _mapWithPolygons(Set<Polygon> polygons) {
+  return Directionality(
+    textDirection: TextDirection.ltr,
+    child: GoogleMap(
+      initialCameraPosition: const CameraPosition(target: LatLng(10.0, 15.0)),
+      polygons: polygons,
+    ),
+  );
+}
+
+List<LatLng> _rectPoints({
+  required double size,
+  LatLng center = const LatLng(0, 0),
+}) {
+  final double halfSize = size / 2;
+
+  return <LatLng>[
+    LatLng(center.latitude + halfSize, center.longitude + halfSize),
+    LatLng(center.latitude - halfSize, center.longitude + halfSize),
+    LatLng(center.latitude - halfSize, center.longitude - halfSize),
+    LatLng(center.latitude + halfSize, center.longitude - halfSize),
+  ];
+}
+
+Polygon _polygonWithPointsAndHole(PolygonId polygonId) {
+  _rectPoints(size: 1);
+  return Polygon(
+    polygonId: polygonId,
+    points: _rectPoints(size: 1),
+    holes: <List<LatLng>>[_rectPoints(size: 0.5)],
+  );
+}
+
+void main() {
+  TestWidgetsFlutterBinding.ensureInitialized();
+
+  final FakePlatformViewsController fakePlatformViewsController =
+      FakePlatformViewsController();
+
+  setUpAll(() {
+    SystemChannels.platform_views.setMockMethodCallHandler(
+        fakePlatformViewsController.fakePlatformViewsMethodHandler);
+  });
+
+  setUp(() {
+    fakePlatformViewsController.reset();
+  });
+
+  testWidgets('Initializing a polygon', (WidgetTester tester) async {
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToAdd.length, 1);
+
+    final Polygon initializedPolygon = platformGoogleMap.polygonsToAdd.first;
+    expect(initializedPolygon, equals(p1));
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToChange.isEmpty, true);
+  });
+
+  testWidgets('Adding a polygon', (WidgetTester tester) async {
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+    const Polygon p2 = Polygon(polygonId: PolygonId('polygon_2'));
+
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1, p2}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToAdd.length, 1);
+
+    final Polygon addedPolygon = platformGoogleMap.polygonsToAdd.first;
+    expect(addedPolygon, equals(p2));
+
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+
+    expect(platformGoogleMap.polygonsToChange.isEmpty, true);
+  });
+
+  testWidgets('Removing a polygon', (WidgetTester tester) async {
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonIdsToRemove.length, 1);
+    expect(platformGoogleMap.polygonIdsToRemove.first, equals(p1.polygonId));
+
+    expect(platformGoogleMap.polygonsToChange.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Updating a polygon', (WidgetTester tester) async {
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+    const Polygon p2 =
+        Polygon(polygonId: PolygonId('polygon_1'), geodesic: true);
+
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p2}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToChange.length, 1);
+    expect(platformGoogleMap.polygonsToChange.first, equals(p2));
+
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Mutate a polygon', (WidgetTester tester) async {
+    final List<LatLng> _points = <LatLng>[const LatLng(0.0, 0.0)];
+    final Polygon p1 = Polygon(
+      polygonId: const PolygonId('polygon_1'),
+      points: _points,
+    );
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+
+    p1.points.add(const LatLng(1.0, 1.0));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToChange.length, 1);
+    expect(platformGoogleMap.polygonsToChange.first, equals(p1));
+
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Multi Update', (WidgetTester tester) async {
+    Polygon p1 = const Polygon(polygonId: PolygonId('polygon_1'));
+    Polygon p2 = const Polygon(polygonId: PolygonId('polygon_2'));
+    final Set<Polygon> prev = <Polygon>{p1, p2};
+    p1 = const Polygon(polygonId: PolygonId('polygon_1'), visible: false);
+    p2 = const Polygon(polygonId: PolygonId('polygon_2'), geodesic: true);
+    final Set<Polygon> cur = <Polygon>{p1, p2};
+
+    await tester.pumpWidget(_mapWithPolygons(prev));
+    await tester.pumpWidget(_mapWithPolygons(cur));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+
+    expect(platformGoogleMap.polygonsToChange, cur);
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Multi Update', (WidgetTester tester) async {
+    Polygon p2 = const Polygon(polygonId: PolygonId('polygon_2'));
+    const Polygon p3 = Polygon(polygonId: PolygonId('polygon_3'));
+    final Set<Polygon> prev = <Polygon>{p2, p3};
+
+    // p1 is added, p2 is updated, p3 is removed.
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+    p2 = const Polygon(polygonId: PolygonId('polygon_2'), geodesic: true);
+    final Set<Polygon> cur = <Polygon>{p1, p2};
+
+    await tester.pumpWidget(_mapWithPolygons(prev));
+    await tester.pumpWidget(_mapWithPolygons(cur));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+
+    expect(platformGoogleMap.polygonsToChange.length, 1);
+    expect(platformGoogleMap.polygonsToAdd.length, 1);
+    expect(platformGoogleMap.polygonIdsToRemove.length, 1);
+
+    expect(platformGoogleMap.polygonsToChange.first, equals(p2));
+    expect(platformGoogleMap.polygonsToAdd.first, equals(p1));
+    expect(platformGoogleMap.polygonIdsToRemove.first, equals(p3.polygonId));
+  });
+
+  testWidgets('Partial Update', (WidgetTester tester) async {
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+    const Polygon p2 = Polygon(polygonId: PolygonId('polygon_2'));
+    Polygon p3 = const Polygon(polygonId: PolygonId('polygon_3'));
+    final Set<Polygon> prev = <Polygon>{p1, p2, p3};
+    p3 = const Polygon(polygonId: PolygonId('polygon_3'), geodesic: true);
+    final Set<Polygon> cur = <Polygon>{p1, p2, p3};
+
+    await tester.pumpWidget(_mapWithPolygons(prev));
+    await tester.pumpWidget(_mapWithPolygons(cur));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+
+    expect(platformGoogleMap.polygonsToChange, <Polygon>{p3});
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Update non platform related attr', (WidgetTester tester) async {
+    Polygon p1 = const Polygon(polygonId: PolygonId('polygon_1'));
+    final Set<Polygon> prev = <Polygon>{p1};
+    p1 = Polygon(
+        polygonId: const PolygonId('polygon_1'), onTap: () => print(2 + 2));
+    final Set<Polygon> cur = <Polygon>{p1};
+
+    await tester.pumpWidget(_mapWithPolygons(prev));
+    await tester.pumpWidget(_mapWithPolygons(cur));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+
+    expect(platformGoogleMap.polygonsToChange.isEmpty, true);
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Initializing a polygon with points and hole',
+      (WidgetTester tester) async {
+    final Polygon p1 = _polygonWithPointsAndHole(const PolygonId('polygon_1'));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToAdd.length, 1);
+
+    final Polygon initializedPolygon = platformGoogleMap.polygonsToAdd.first;
+    expect(initializedPolygon, equals(p1));
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToChange.isEmpty, true);
+  });
+
+  testWidgets('Adding a polygon with points and hole',
+      (WidgetTester tester) async {
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+    final Polygon p2 = _polygonWithPointsAndHole(const PolygonId('polygon_2'));
+
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1, p2}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToAdd.length, 1);
+
+    final Polygon addedPolygon = platformGoogleMap.polygonsToAdd.first;
+    expect(addedPolygon, equals(p2));
+
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+
+    expect(platformGoogleMap.polygonsToChange.isEmpty, true);
+  });
+
+  testWidgets('Removing a polygon with points and hole',
+      (WidgetTester tester) async {
+    final Polygon p1 = _polygonWithPointsAndHole(const PolygonId('polygon_1'));
+
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonIdsToRemove.length, 1);
+    expect(platformGoogleMap.polygonIdsToRemove.first, equals(p1.polygonId));
+
+    expect(platformGoogleMap.polygonsToChange.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Updating a polygon by adding points and hole',
+      (WidgetTester tester) async {
+    const Polygon p1 = Polygon(polygonId: PolygonId('polygon_1'));
+    final Polygon p2 = _polygonWithPointsAndHole(const PolygonId('polygon_1'));
+
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p2}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToChange.length, 1);
+    expect(platformGoogleMap.polygonsToChange.first, equals(p2));
+
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Mutate a polygon with points and holes',
+      (WidgetTester tester) async {
+    final Polygon p1 = Polygon(
+      polygonId: const PolygonId('polygon_1'),
+      points: _rectPoints(size: 1),
+      holes: <List<LatLng>>[_rectPoints(size: 0.5)],
+    );
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+
+    p1.points
+      ..clear()
+      ..addAll(_rectPoints(size: 2));
+    p1.holes
+      ..clear()
+      ..addAll(<List<LatLng>>[_rectPoints(size: 1)]);
+    await tester.pumpWidget(_mapWithPolygons(<Polygon>{p1}));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+    expect(platformGoogleMap.polygonsToChange.length, 1);
+    expect(platformGoogleMap.polygonsToChange.first, equals(p1));
+
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Multi Update polygons with points and hole',
+      (WidgetTester tester) async {
+    Polygon p1 = const Polygon(polygonId: PolygonId('polygon_1'));
+    Polygon p2 = Polygon(
+      polygonId: const PolygonId('polygon_2'),
+      points: _rectPoints(size: 2),
+      holes: <List<LatLng>>[_rectPoints(size: 1)],
+    );
+    final Set<Polygon> prev = <Polygon>{p1, p2};
+    p1 = const Polygon(polygonId: PolygonId('polygon_1'), visible: false);
+    p2 = p2.copyWith(
+      pointsParam: _rectPoints(size: 5),
+      holesParam: <List<LatLng>>[_rectPoints(size: 2)],
+    );
+    final Set<Polygon> cur = <Polygon>{p1, p2};
+
+    await tester.pumpWidget(_mapWithPolygons(prev));
+    await tester.pumpWidget(_mapWithPolygons(cur));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+
+    expect(platformGoogleMap.polygonsToChange, cur);
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+
+  testWidgets('Multi Update polygons with points and hole',
+      (WidgetTester tester) async {
+    Polygon p2 = Polygon(
+      polygonId: const PolygonId('polygon_2'),
+      points: _rectPoints(size: 2),
+      holes: <List<LatLng>>[_rectPoints(size: 1)],
+    );
+    const Polygon p3 = Polygon(polygonId: PolygonId('polygon_3'));
+    final Set<Polygon> prev = <Polygon>{p2, p3};
+
+    // p1 is added, p2 is updated, p3 is removed.
+    final Polygon p1 = _polygonWithPointsAndHole(const PolygonId('polygon_1'));
+    p2 = p2.copyWith(
+      pointsParam: _rectPoints(size: 5),
+      holesParam: <List<LatLng>>[_rectPoints(size: 3)],
+    );
+    final Set<Polygon> cur = <Polygon>{p1, p2};
+
+    await tester.pumpWidget(_mapWithPolygons(prev));
+    await tester.pumpWidget(_mapWithPolygons(cur));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+
+    expect(platformGoogleMap.polygonsToChange.length, 1);
+    expect(platformGoogleMap.polygonsToAdd.length, 1);
+    expect(platformGoogleMap.polygonIdsToRemove.length, 1);
+
+    expect(platformGoogleMap.polygonsToChange.first, equals(p2));
+    expect(platformGoogleMap.polygonsToAdd.first, equals(p1));
+    expect(platformGoogleMap.polygonIdsToRemove.first, equals(p3.polygonId));
+  });
+
+  testWidgets('Partial Update polygons with points and hole',
+      (WidgetTester tester) async {
+    final Polygon p1 = _polygonWithPointsAndHole(const PolygonId('polygon_1'));
+    const Polygon p2 = Polygon(polygonId: PolygonId('polygon_2'));
+    Polygon p3 = Polygon(
+      polygonId: const PolygonId('polygon_3'),
+      points: _rectPoints(size: 2),
+      holes: <List<LatLng>>[_rectPoints(size: 1)],
+    );
+    final Set<Polygon> prev = <Polygon>{p1, p2, p3};
+    p3 = p3.copyWith(
+      pointsParam: _rectPoints(size: 5),
+      holesParam: <List<LatLng>>[_rectPoints(size: 3)],
+    );
+    final Set<Polygon> cur = <Polygon>{p1, p2, p3};
+
+    await tester.pumpWidget(_mapWithPolygons(prev));
+    await tester.pumpWidget(_mapWithPolygons(cur));
+
+    final FakePlatformGoogleMap platformGoogleMap =
+        fakePlatformViewsController.lastCreatedView!;
+
+    expect(platformGoogleMap.polygonsToChange, <Polygon>{p3});
+    expect(platformGoogleMap.polygonIdsToRemove.isEmpty, true);
+    expect(platformGoogleMap.polygonsToAdd.isEmpty, true);
+  });
+}
